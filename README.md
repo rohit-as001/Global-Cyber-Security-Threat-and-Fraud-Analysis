@@ -79,25 +79,8 @@ The dashboard transforms complex cybersecurity datasets into meaningful visual i
   - Balanced Defense Portfolio: Combine traditional tools (antivirus, VPN, encryption) with modern AI-driven solutions for layered protection.
 
 
-
-1) Priority 1 — Fix the Basics First
-    - Cleanliness (4.23) and Food Quality (4.22) are among the lowest-rated dimensions — yet both are fundamental to guest satisfaction  and brand trust. These are non-negotiables in hospitality. An investment in housekeeping standards and kitchen quality control           can yield outsized rating improvements quickly.
-
-2)  Priority 2 — Upgrade the Fitness Center
-    - At 4.22, the Fitness Center is the lowest-rated amenity. With the rise of wellness tourism and health-conscious travelers          (especially Business and Solo segments), a modern, well-equipped gym is increasingly a deciding factor in hotel selection. A             targeted capex investment here can differentiate the property.
-
-3) Priority 3 — Investigate Food Quality vs. Dining Discrepancy  
-    - There is a notable gap between On-Site Dining (4.56) and Food Quality (4.22). This suggests guests enjoy the dining experience    (ambience, service, variety) but are less satisfied with the food itself. Menu audits, chef training, or sourcing upgrades could         close this gap.
-
-4) Priority 4 — Convert "Very Good" to "Excellent"
-    - The 19% of guests who rated "Very Good" represent a recoverable segment. A post-stay survey targeting these guests to identify     their specific friction points (check-in wait times, noise levels, room temperature) can reveal low-cost, high-impact fixes.
-
-5) Priority 6 — Build a Female Traveler Strategy
-    - With only 31% female guests, there is a significant untapped market. Hotels should consider: enhanced in-room safety features, women-only floors, collaboration with female-focused travel influencers, and spa/wellness bundles. Even a 5-point shift in gender mix could meaningfully expand revenue.
-
-
 # Business Value
-This dashboard empowers organizations to:  
+This dashboard empowers organizations to:
 	- Quantify cyber risk in financial terms for executive and board-level communication.
     - Benchmark their defence posture against global attack patterns and vulnerability distributions.
     - Allocate security budgets based on evidence — prioritizing the threats and defences that matter most.
