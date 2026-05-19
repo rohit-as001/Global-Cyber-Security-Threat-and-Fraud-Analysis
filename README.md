@@ -81,12 +81,12 @@ The dashboard transforms complex cybersecurity datasets into meaningful visual i
 
 # Business Value
 This dashboard empowers organizations to:
-	- Quantify cyber risk in financial terms for executive and board-level communication.
-	- Benchmark their defence posture against global attack patterns and vulnerability distributions.
-	- Allocate security budgets based on evidence — prioritizing the threats and defences that matter most.
-	- Track the evolving threat landscape over a decade to inform long-term security strategy.
-	- Justify investments in AI-based detection and Zero Trust architecture with data-backed reasoning.
-	- Prepare incident response plans calibrated to realistic attack durations and impact scales.
+- Quantify cyber risk in financial terms for executive and board-level communication.
+- Benchmark their defence posture against global attack patterns and vulnerability distributions.
+- Allocate security budgets based on evidence — prioritizing the threats and defences that matter most.
+- Track the evolving threat landscape over a decade to inform long-term security strategy.
+- Justify investments in AI-based detection and Zero Trust architecture with data-backed reasoning.
+- Prepare incident response plans calibrated to realistic attack durations and impact scales.
 
 
 ## Tools & Technologies
